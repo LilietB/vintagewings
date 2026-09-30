@@ -1,0 +1,22 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/attributes/skinnableParts/-",
+    "value": {
+      "code": "wings",
+      "type": "shape",
+      "shapeTemplate": {
+        "base": "vintagewings:entity/humanoid/seraphskinparts/wings/{code}"
+      },
+      "variants": [
+        {
+          "code": "none"
+        },
+        {
+          "code": "feathered-closed"
+        }
+      ]
+    },
+    "file": "game:entities/humanoid/player.json"
+  }
+]

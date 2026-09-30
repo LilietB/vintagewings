@@ -1,0 +1,102 @@
+[
+  {
+    "op": "add",
+    "path": "/human/SkinnableParts/-",
+    "dependsOn": [
+      {
+        "modid": "humans"
+      }
+    ],
+    "value": {
+      "code": "wings",
+      "type": "shape",
+      "shapeTemplate": {
+        "base": "vintagewings:entity/humanoid/seraphskinparts/wings/{code}"
+      },
+      "variants": [
+        {
+          "code": "none"
+        },
+        {
+          "code": "feathered-closed"
+        }
+      ]
+    },
+    "file": "humans:config/customplayermodels/human.json"
+  },
+  {
+    "op": "add",
+    "path": "/ancestor/SkinnableParts/-",
+    "dependsOn": [
+      {
+        "modid": "humans"
+      }
+    ],
+    "value": {
+      "code": "wings",
+      "type": "shape",
+      "shapeTemplate": {
+        "base": "vintagewings:entity/humanoid/seraphskinparts/wings/{code}"
+      },
+      "variants": [
+        {
+          "code": "none"
+        },
+        {
+          "code": "feathered-closed"
+        }
+      ]
+    },
+    "file": "humans:config/customplayermodels/ancestor.json"
+  },
+  {
+    "op": "add",
+    "path": "/nadiyan/SkinnableParts/-",
+    "dependsOn": [
+      {
+        "modid": "humans"
+      }
+    ],
+    "value": {
+      "code": "wings",
+      "type": "shape",
+      "shapeTemplate": {
+        "base": "vintagewings:entity/humanoid/seraphskinparts/wings/{code}"
+      },
+      "variants": [
+        {
+          "code": "none"
+        },
+        {
+          "code": "feathered-closed"
+        }
+      ]
+    },
+    "file": "humans:config/customplayermodels/nadiyan.json"
+  },
+  {
+    "op": "add",
+    "path": "/nomad/SkinnableParts/-",
+    "dependsOn": [
+      {
+        "modid": "humans"
+      }
+    ],
+    "value": {
+      "code": "wings",
+      "type": "shape",
+      "shapeTemplate": {
+        "base": "vintagewings:entity/humanoid/seraphskinparts/wings/{code}"
+      },
+      "variants": [
+        {
+          "code": "none"
+        },
+        {
+          "code": "feathered-closed"
+        }
+      ]
+    },
+    "file": "humans:config/customplayermodels/nomad.json"
+  }
+]
