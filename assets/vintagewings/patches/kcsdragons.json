@@ -1,0 +1,28 @@
+[
+  {
+    "op": "add",
+    "path": "/draicor/SkinnableParts/21/variants/-",
+    "dependsOn": [
+      {
+        "modid": "kcsdragons"
+      }
+    ],
+    "value": {
+      "code": "feathered-closed"
+    },
+    "file": "kcsdragons:config/customplayermodels/draicor.json"
+  },
+  {
+    "op": "add",
+    "path": "/draconlet/SkinnableParts/21/variants/-",
+    "dependsOn": [
+      {
+        "modid": "kcsdragons"
+      }
+    ],
+    "value": {
+      "code": "feathered-closed"
+    },
+    "file": "kcsdragons:config/customplayermodels/draconlet.json"
+  }
+]

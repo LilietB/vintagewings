@@ -1,0 +1,76 @@
+[
+  {
+    "op": "add",
+    "path": "/animations/8/keyframes/-",
+    "value": {
+      "frame": 39,
+      "elements": {}
+    },
+    "file": "game:shapes/entity/humanoid/seraph-faceless.json"
+  },
+  {
+    "op": "add",
+    "path": "/animations/10/keyframes/-",
+    "value": {
+      "frame": 39,
+      "elements": {}
+    },
+    "file": "game:shapes/entity/humanoid/seraph-faceless.json"
+  },
+  {
+    "op": "add",
+    "path": "/animations/5/keyframes/-",
+    "value": {
+      "frame": 39,
+      "elements": {}
+    },
+    "file": "kcsdragons:shapes/draicor.json",
+    "dependsOn": [
+      {
+        "modid": "kcsdragons"
+      }
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/animations/7/keyframes/-",
+    "value": {
+      "frame": 39,
+      "elements": {}
+    },
+    "file": "kcsdragons:shapes/draicor.json",
+    "dependsOn": [
+      {
+        "modid": "kcsdragons"
+      }
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/animations/8/keyframes/-",
+    "value": {
+      "frame": 39,
+      "elements": {}
+    },
+    "file": "kcssynths:shapes/kcsynth.json",
+    "dependsOn": [
+      {
+        "modid": "kcssynths"
+      }
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/animations/10/keyframes/-",
+    "value": {
+      "frame": 39,
+      "elements": {}
+    },
+    "file": "kcssynths:shapes/kcsynth.json",
+    "dependsOn": [
+      {
+        "modid": "kcssynths"
+      }
+    ]
+  }
+]

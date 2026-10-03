@@ -1,5 +1,8 @@
 {
 	"game:skinpart-wings": "Wings",
 	"game:skinpart-wings-none": "None",
-	"game:skinpart-wings-feathered-closed": "Feathered (closed)"
+	"game:skinpart-wings-feathered-closed": "Feathered (closed)",
+	"game:skinpart-draicor-wings-feathered-closed": "Feathered (closed)",
+	"game:skinpart-draconlet-wings-feathered-closed": "Feathered (closed)",
+	"game:skinpart-synth-wings-feathered-closed": "Feathered (closed)"
 }

@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/synthw/SkinnableParts/10/variants/-",
+    "dependsOn": [
+      { "modid": "kcssynths" }
+    ],
+    "value": {
+      "code": "feathered-closed"
+    },
+    "file": "kcssynths:config/customplayermodels/synthw.json"
+  }
+]
