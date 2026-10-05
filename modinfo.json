@@ -2,9 +2,9 @@
   "type": "content",
   "modid": "vintagewings",
   "name": "Vintage Wings",
-  "authors": ["argentskyseer"],
+  "authors": ["argentskyseer, kestrelcrow, Liliet"],
   "description": "Adds a Wings option to character creation so players can give their model wings.",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "dependencies": {
     "game": "1.22.0"
   },
