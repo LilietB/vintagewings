@@ -18,7 +18,7 @@
         }
       ]
     },
-    "file": "beastsofmen:config/customplayermodels/gooberboys.json"
+    "file": "beastsofmen:config/customplayermodels/gooberboy.json"
   },
   {
     "op": "add",
@@ -39,6 +39,6 @@
         }
       ]
     },
-    "file": "beastsofmen:config/customplayermodels/goobers.json"
+    "file": "beastsofmen:config/customplayermodels/goober.json"
   }
  ]
